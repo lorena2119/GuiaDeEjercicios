@@ -9,3 +9,9 @@ Los ejercicios de flexibilidad estiran los músculos y ayudan a mantener la flex
 - Permitir que las articulaciones se muevan con toda su amplitud de movimiento.
 - Aumentar el flujo sanguíneo en los músculos.
 - Permitir que los músculos trabajen de la manera más eficaz.
+
+## Instrucciones
+1. Estocadas dinámicas
+2. Estiramiento de pantorrilla en escalera
+3. Postura del lagarto (Utthan Pristhasana)
+4. Estiramiento de cuádriceps tumbado
