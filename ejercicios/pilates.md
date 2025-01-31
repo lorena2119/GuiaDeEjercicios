@@ -9,3 +9,11 @@ Pilates utiliza movimientos lentos, controlados y precisos para fortalecer los m
 - Aumenta tu fuerza
 - Mejora tu estabilidad
 - Incrementa tu flexibilidad
+
+## Instrucciones
+1. Concentración.
+2. Control.
+3. Precisión.
+4. Fluidez de movimiento.
+5. Respiración.
+6. Centralización.
