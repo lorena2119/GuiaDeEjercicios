@@ -15,3 +15,12 @@ Los ejercicios de flexibilidad estiran los músculos y ayudan a mantener la flex
 2. Estiramiento de pantorrilla en escalera
 3. Postura del lagarto (Utthan Pristhasana)
 4. Estiramiento de cuádriceps tumbado
+
+## Consejos
+- Mantener el movimiento en la rutina.
+- Calentamiento adecuado del cuerpo.
+- Incorporar el uso del rodillo de espuma.
+- Estiramientos específicos.
+- Hacer pilates para mejorar la flexibilidad.
+- Practicar tai chi.
+- Consistencia en el estiramiento.
