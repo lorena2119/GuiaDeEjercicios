@@ -12,3 +12,9 @@ CrossFit es una técnica de entrenamiento que conecta movimientos de diferentes 
 - Aporta concentración y motivación extra. 
 - Reduce el nivel de estrés. 
 - Aumenta las relaciones sociales.
+
+## Instrucciones
+1. Calentamiento o warm up: preparar el cuerpo y los músculos para evitar lesiones
+2. Técnica o skill: aprendizaje y perfeccionamiento de los ejercicios del WOD
+3. WOD: la rutina de entrenamiento del día
+4. Estiramientos o cool down: relajar los músculos trabajados una vez finalizada la sesión de crossfit.
