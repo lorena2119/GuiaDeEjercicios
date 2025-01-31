@@ -20,3 +20,13 @@ El ciclismo es un deporte en el que se utiliza una bicicleta​ para recorrer ci
 4. Para los ciclistas principantes, lo más aconsejable es empezar por rutas sencillas de 30 minutos y, poco a poco, aumentar el tiempo hasta los 60 minutos. Conforme avances de nivel podrás incrementar también tu exigencia física y tiempo de entrenamiento.
 
 5. El número de pedaladas es un aspecto que debes tener en cuenta si quieres mejorar tanto tu resistencia como tu fuerza en este deporte. Los ciclistas profesionales circulan realizando alrededor de 100 pedaladas por minuto. Pero, para los que están comenzando en el ciclismo, lo recomendable es hacer unas 60.
+
+## Consejos
+- Ni teléfono móvil ni auriculares. 
+- Nada de alcohol. 
+- A ser posible, circular por el carril bici.
+- Encender las luces. 
+- Incorporarse a la vía con cuidado. 
+- Señalizar maniobras. 
+- Advertir la frenada. 
+- Respetar las señales.
