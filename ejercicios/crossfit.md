@@ -18,3 +18,9 @@ CrossFit es una técnica de entrenamiento que conecta movimientos de diferentes 
 2. Técnica o skill: aprendizaje y perfeccionamiento de los ejercicios del WOD
 3. WOD: la rutina de entrenamiento del día
 4. Estiramientos o cool down: relajar los músculos trabajados una vez finalizada la sesión de crossfit.
+
+## Consejos
+1. Competir contra ti mismo
+2. Escala
+3. Nutrición
+4. Preguntar a un profesional
