@@ -12,3 +12,10 @@ Sistema antiguo de prácticas que se usa para equilibrar la mente y el cuerpo me
 - Mejorar su concentración.
 - Ayudarle a dormir mejor.
 - Ayudar a la digestión.
+
+## Instrucciones
+- Evitar comer antes de tu primera clase de yoga. En realidad debes evitarlo en cada clase. 
+- Escucha las instrucciones del profesor. El instructor de yoga será tu guía y principal aliado en la práctica. 
+- Usa ropa cómoda. 
+- Respeta a tu cuerpo, no exijas más de lo que puedes dar. 
+- Conéctate con el presente.
