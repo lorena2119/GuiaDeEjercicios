@@ -7,3 +7,9 @@ El entrenamiento funcional es un medio de entrenamiento basado en la realizació
 - Mejora la postura corporal. 
 - Aporta mejoras en la velocidad y agilidad de movimiento. 
 - Desarrolla la Fuerza (potencia, hipertrofia, resistencia y tonificación).
+
+## Instrucciones
+1. Realizar Burpees.
+2. Realizar Jumping jacks.
+3. Sentadilla con lanzamiento de balón.
+4. Realizar Dominadas.
