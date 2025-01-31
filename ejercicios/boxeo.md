@@ -21,3 +21,11 @@ El boxeo es un deporte de combate y arte marcial . Se desarrolla en un ring de b
 - No se admiten golpes bajos .
 - No se deben causar tropiezos..
 - No se deben dar cabezazos intencionalmente.
+
+## Consejos
+- Use su cabeza. 
+- Mantenerlo en constante movilidad. 
+- Utilizar el jab y el directo de izquierda. 
+- Con desplazamiento hacia la izquierda en círculo lance el directo de izquierda. 
+- Siempre en movimiento, no deje que el pegador lance cómodo. 
+- Trate de que éste mantenga la iniciativa.
