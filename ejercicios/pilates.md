@@ -17,3 +17,13 @@ Pilates utiliza movimientos lentos, controlados y precisos para fortalecer los m
 4. Fluidez de movimiento.
 5. Respiración.
 6. Centralización.
+
+## Consejos
+- Encuentra un instructor cualificado. 
+- Comienza con ejercicios básicos. 
+- Escucha a tu cuerpo. 
+- Practica regularmente. 
+- Mantén una respiración adecuada. 
+- Presta atención a la alineación. 
+- No te preocupes por la apariencia. 
+- Escucha tu mente y tu cuerpo.
