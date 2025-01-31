@@ -19,3 +19,12 @@ Sistema antiguo de prácticas que se usa para equilibrar la mente y el cuerpo me
 - Usa ropa cómoda. 
 - Respeta a tu cuerpo, no exijas más de lo que puedes dar. 
 - Conéctate con el presente.
+
+## Consejos
+- El yoga no solo son posturas. Los maestros y practicantes experimentados repiten mucho esto. 
+- Suelta todas tus expectativas. 
+- Coloca tu Sankalpa. 
+- Lo más importante es la respiración. 
+- No hay prisa de nada. 
+- Elige tu ritmo y hazlo a tus tiempos. 
+- Cierra cada práctica con agradecimiento.
