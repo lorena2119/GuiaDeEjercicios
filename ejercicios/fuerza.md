@@ -18,3 +18,12 @@ Los ejercicios de fuerza son entrenamientos musculares en los que se utilizan di
 4. Busca el equilibrio. 
 5. Incluye el fortalecimiento muscular en tu rutina de ejercicios.
 6. Descansa.
+
+## Consejos
+- Entrena los glúteos
+- Utiliza distintos instrumentos para el agarre.
+- Haz resbalar la barra por la tibia en el peso muerto.
+- Prioriza los ejercicios básicos.
+- Haz mas series pesadas.
+- Mantén la respiración.
+- Lleva anotadas tus marcas
